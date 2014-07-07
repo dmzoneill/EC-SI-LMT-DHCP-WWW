@@ -1,0 +1,776 @@
+dead - 10.243.18.4 - 
+dead - 10.243.18.5 - 
+dead - 10.243.18.6 - 
+dead - 10.243.18.7 - 
+dead - 10.243.18.8 - 
+dead - 10.243.18.10 - 
+dead - 10.243.18.11 - 
+dead - 10.243.18.12 - 
+dead - 10.243.18.13 - 
+dead - 10.243.18.16 - 
+dead - 10.243.18.18 - 
+dead - 10.243.18.19 - 
+dead - 10.243.18.20 - 
+dead - 10.243.18.21 - 
+dead - 10.243.18.22 - 
+dead - 10.243.18.23 - 
+dead - 10.243.18.25 - 
+dead - 10.243.18.27 - 
+dead - 10.243.18.29 - 
+dead - 10.243.18.30 - 
+dead - 10.243.18.34 - 
+dead - 10.243.18.35 - 
+dead - 10.243.18.36 - 
+dead - 10.243.18.39 - 
+dead - 10.243.18.41 - 
+dead - 10.243.18.42 - 
+dead - 10.243.18.43 - 
+dead - 10.243.18.44 - 
+dead - 10.243.18.45 - 
+dead - 10.243.18.46 - 
+dead - 10.243.18.47 - 
+dead - 10.243.18.48 - 
+dead - 10.243.18.49 - 
+dead - 10.243.18.50 - 
+dead - 10.243.18.51 - 
+dead - 10.243.18.52 - 
+dead - 10.243.18.53 - 
+dead - 10.243.18.54 - 
+dead - 10.243.18.55 - 
+dead - 10.243.18.56 - 
+dead - 10.243.18.57 - 
+dead - 10.243.18.58 - 
+dead - 10.243.18.59 - 
+dead - 10.243.18.60 - 
+dead - 10.243.18.61 - 
+dead - 10.243.18.62 - 
+dead - 10.243.18.63 - 
+dead - 10.243.18.64 - 
+dead - 10.243.18.65 - 
+dead - 10.243.18.66 - 
+dead - 10.243.18.67 - 
+dead - 10.243.18.68 - 
+dead - 10.243.18.69 - 
+dead - 10.243.18.70 - 
+dead - 10.243.18.71 - 
+dead - 10.243.18.72 - 
+dead - 10.243.18.73 - 
+dead - 10.243.18.74 - 
+dead - 10.243.18.75 - 
+dead - 10.243.18.76 - 
+dead - 10.243.18.77 - 
+dead - 10.243.18.78 - 
+dead - 10.243.18.79 - 
+dead - 10.243.18.80 - 
+dead - 10.243.18.83 - 
+dead - 10.243.18.84 - 
+dead - 10.243.18.85 - 
+dead - 10.243.18.87 - 
+dead - 10.243.18.88 - 
+dead - 10.243.18.89 - 
+dead - 10.243.18.90 - 
+dead - 10.243.18.91 - 
+dead - 10.243.18.92 - 
+dead - 10.243.18.93 - 
+dead - 10.243.18.94 - 
+dead - 10.243.18.97 - 
+dead - 10.243.18.98 - 
+dead - 10.243.18.100 - 
+dead - 10.243.18.102 - 
+dead - 10.243.18.103 - 
+dead - 10.243.18.104 - 
+dead - 10.243.18.105 - 
+dead - 10.243.18.106 - 
+dead - 10.243.18.107 - 
+dead - 10.243.18.108 - 
+dead - 10.243.18.109 - 
+dead - 10.243.18.110 - 
+dead - 10.243.18.111 - 
+dead - 10.243.18.112 - 
+dead - 10.243.18.113 - 
+dead - 10.243.18.114 - 
+dead - 10.243.18.115 - 
+dead - 10.243.18.116 - 
+dead - 10.243.18.117 - 
+dead - 10.243.18.118 - 
+dead - 10.243.18.119 - 
+dead - 10.243.18.123 - 
+dead - 10.243.18.124 - 
+dead - 10.243.18.125 - 
+dead - 10.243.18.126 - 
+dead - 10.243.18.127 - 
+dead - 10.243.18.128 - 
+dead - 10.243.18.129 - 
+dead - 10.243.18.130 - 
+dead - 10.243.18.131 - 
+dead - 10.243.18.132 - 
+dead - 10.243.18.133 - 
+dead - 10.243.18.134 - 
+dead - 10.243.18.135 - 
+dead - 10.243.18.136 - 
+dead - 10.243.18.138 - 
+dead - 10.243.18.139 - 
+dead - 10.243.18.140 - 
+dead - 10.243.18.141 - 
+dead - 10.243.18.142 - 
+dead - 10.243.18.143 - 
+dead - 10.243.18.144 - 
+dead - 10.243.18.145 - 
+dead - 10.243.18.146 - 
+dead - 10.243.18.147 - 
+dead - 10.243.18.148 - 
+dead - 10.243.18.149 - 
+dead - 10.243.18.151 - 
+dead - 10.243.18.152 - 
+dead - 10.243.18.153 - 
+dead - 10.243.18.155 - 
+dead - 10.243.18.156 - 
+dead - 10.243.18.157 - 
+dead - 10.243.18.158 - 
+dead - 10.243.18.160 - 
+dead - 10.243.18.162 - 
+dead - 10.243.18.163 - 
+dead - 10.243.18.164 - 
+dead - 10.243.18.165 - 
+dead - 10.243.18.166 - 
+dead - 10.243.18.168 - 
+dead - 10.243.18.169 - 
+dead - 10.243.18.170 - 
+dead - 10.243.18.171 - 
+dead - 10.243.18.172 - 
+dead - 10.243.18.173 - 
+dead - 10.243.18.175 - 
+dead - 10.243.18.176 - 
+dead - 10.243.18.177 - 
+dead - 10.243.18.178 - 
+dead - 10.243.18.179 - 
+dead - 10.243.18.180 - 
+dead - 10.243.18.182 - 
+dead - 10.243.18.183 - 
+dead - 10.243.18.184 - 
+dead - 10.243.18.187 - 
+dead - 10.243.18.188 - 
+dead - 10.243.18.189 - 
+dead - 10.243.18.190 - 
+dead - 10.243.18.191 - 
+dead - 10.243.18.193 - 
+dead - 10.243.18.194 - 
+dead - 10.243.18.196 - 
+dead - 10.243.18.197 - 
+dead - 10.243.18.198 - 
+dead - 10.243.18.199 - 
+dead - 10.243.18.200 - 
+dead - 10.243.18.201 - 
+dead - 10.243.18.202 - 
+dead - 10.243.18.203 - 
+dead - 10.243.18.206 - 
+dead - 10.243.18.207 - 
+dead - 10.243.18.210 - 
+dead - 10.243.18.211 - 
+dead - 10.243.18.213 - 
+dead - 10.243.18.214 - 
+dead - 10.243.18.215 - 
+dead - 10.243.18.217 - 
+dead - 10.243.18.218 - 
+dead - 10.243.18.220 - 
+dead - 10.243.18.221 - 
+dead - 10.243.18.222 - 
+dead - 10.243.18.223 - 
+dead - 10.243.18.224 - 
+dead - 10.243.18.225 - 
+dead - 10.243.18.226 - 
+dead - 10.243.18.227 - 
+dead - 10.243.18.228 - 
+dead - 10.243.18.230 - 
+dead - 10.243.18.231 - 
+dead - 10.243.18.233 - 
+dead - 10.243.18.234 - 
+dead - 10.243.18.235 - 
+dead - 10.243.18.237 - 
+dead - 10.243.18.238 - 
+dead - 10.243.18.239 - 
+dead - 10.243.18.240 - 
+dead - 10.243.18.241 - 
+dead - 10.243.18.242 - 
+dead - 10.243.18.243 - 
+dead - 10.243.18.244 - 
+dead - 10.243.18.246 - 
+dead - 10.243.18.247 - 
+dead - 10.243.18.249 - 
+dead - 10.243.18.250 - 
+dead - 10.243.18.251 - 
+dead - 10.243.18.253 - 
+unknown - 10.243.18.1 - 22|67|
+unknown - 10.243.18.2 - 22|67|
+unknown - 10.243.18.3 - 22|67|
+linux - 10.243.18.81 - basisadmin - ssh - Red Hat Enterprise Linux Server release 5 (Tikanga) - root - 22|
+unknown - 10.243.18.95 - 22|139|3389|
+unknown - 10.243.18.101 - 21|23|80|67|
+unknown - 10.243.18.121 - 23|139|3389|
+linux - 10.243.18.181 - tester - ssh - Fedora release 13 (Goddard) - root - 22|
+unknown - 10.243.18.185 - 21|139|3389|
+unknown - 10.243.18.208 - 67|
+linux - 10.243.18.245 - basisadmin - ssh - Fedora release 10 (Cambridge) - root - 22|67|
+dead - 10.237.212.4 - 
+dead - 10.237.212.5 - 
+dead - 10.237.212.6 - 
+dead - 10.237.212.8 - 
+dead - 10.237.212.9 - 
+dead - 10.237.212.10 - 
+dead - 10.237.212.11 - 
+dead - 10.237.212.12 - 
+dead - 10.237.212.14 - 
+dead - 10.237.212.16 - 
+dead - 10.237.212.17 - 
+dead - 10.237.212.19 - 
+dead - 10.237.212.20 - 
+dead - 10.237.212.21 - 
+dead - 10.237.212.22 - 
+dead - 10.237.212.23 - 
+dead - 10.237.212.25 - 
+dead - 10.237.212.26 - 
+dead - 10.237.212.27 - 
+dead - 10.237.212.28 - 
+dead - 10.237.212.30 - 
+dead - 10.237.212.31 - 
+dead - 10.237.212.32 - 
+dead - 10.237.212.34 - 
+dead - 10.237.212.35 - 
+dead - 10.237.212.38 - 
+dead - 10.237.212.40 - 
+dead - 10.237.212.41 - 
+dead - 10.237.212.42 - 
+dead - 10.237.212.43 - 
+dead - 10.237.212.44 - 
+dead - 10.237.212.45 - 
+dead - 10.237.212.47 - 
+dead - 10.237.212.48 - 
+dead - 10.237.212.50 - 
+dead - 10.237.212.53 - 
+dead - 10.237.212.54 - 
+dead - 10.237.212.55 - 
+dead - 10.237.212.57 - 
+dead - 10.237.212.58 - 
+dead - 10.237.212.61 - 
+dead - 10.237.212.62 - 
+dead - 10.237.212.63 - 
+dead - 10.237.212.64 - 
+dead - 10.237.212.66 - 
+dead - 10.237.212.67 - 
+dead - 10.237.212.68 - 
+dead - 10.237.212.69 - 
+dead - 10.237.212.71 - 
+dead - 10.237.212.72 - 
+dead - 10.237.212.76 - 
+dead - 10.237.212.79 - 
+dead - 10.237.212.82 - 
+dead - 10.237.212.84 - 
+dead - 10.237.212.85 - 
+dead - 10.237.212.87 - 
+dead - 10.237.212.90 - 
+dead - 10.237.212.91 - 
+dead - 10.237.212.92 - 
+dead - 10.237.212.93 - 
+dead - 10.237.212.95 - 
+dead - 10.237.212.97 - 
+dead - 10.237.212.98 - 
+dead - 10.237.212.99 - 
+dead - 10.237.212.100 - 
+dead - 10.237.212.101 - 
+dead - 10.237.212.102 - 
+dead - 10.237.212.103 - 
+dead - 10.237.212.104 - 
+dead - 10.237.212.105 - 
+dead - 10.237.212.106 - 
+dead - 10.237.212.107 - 
+dead - 10.237.212.108 - 
+dead - 10.237.212.110 - 
+dead - 10.237.212.112 - 
+dead - 10.237.212.113 - 
+dead - 10.237.212.115 - 
+dead - 10.237.212.118 - 
+dead - 10.237.212.119 - 
+dead - 10.237.212.120 - 
+dead - 10.237.212.122 - 
+dead - 10.237.212.123 - 
+dead - 10.237.212.124 - 
+dead - 10.237.212.126 - 
+dead - 10.237.212.129 - 
+dead - 10.237.212.136 - 
+dead - 10.237.212.140 - 
+dead - 10.237.212.141 - 
+dead - 10.237.212.144 - 
+dead - 10.237.212.147 - 
+dead - 10.237.212.148 - 
+dead - 10.237.212.149 - 
+dead - 10.237.212.150 - 
+dead - 10.237.212.151 - 
+dead - 10.237.212.153 - 
+dead - 10.237.212.154 - 
+dead - 10.237.212.156 - 
+dead - 10.237.212.157 - 
+dead - 10.237.212.158 - 
+dead - 10.237.212.159 - 
+dead - 10.237.212.160 - 
+dead - 10.237.212.162 - 
+dead - 10.237.212.163 - 
+dead - 10.237.212.164 - 
+dead - 10.237.212.165 - 
+dead - 10.237.212.166 - 
+dead - 10.237.212.167 - 
+dead - 10.237.212.169 - 
+dead - 10.237.212.171 - 
+dead - 10.237.212.172 - 
+dead - 10.237.212.176 - 
+dead - 10.237.212.177 - 
+dead - 10.237.212.178 - 
+dead - 10.237.212.179 - 
+dead - 10.237.212.180 - 
+dead - 10.237.212.182 - 
+dead - 10.237.212.183 - 
+dead - 10.237.212.184 - 
+dead - 10.237.212.185 - 
+dead - 10.237.212.186 - 
+dead - 10.237.212.187 - 
+dead - 10.237.212.189 - 
+dead - 10.237.212.192 - 
+dead - 10.237.212.193 - 
+dead - 10.237.212.194 - 
+dead - 10.237.212.195 - 
+dead - 10.237.212.197 - 
+dead - 10.237.212.200 - 
+dead - 10.237.212.201 - 
+dead - 10.237.212.202 - 
+dead - 10.237.212.203 - 
+dead - 10.237.212.205 - 
+dead - 10.237.212.206 - 
+dead - 10.237.212.207 - 
+dead - 10.237.212.208 - 
+dead - 10.237.212.209 - 
+dead - 10.237.212.210 - 
+dead - 10.237.212.211 - 
+dead - 10.237.212.212 - 
+dead - 10.237.212.213 - 
+dead - 10.237.212.214 - 
+dead - 10.237.212.216 - 
+dead - 10.237.212.219 - 
+dead - 10.237.212.220 - 
+dead - 10.237.212.222 - 
+dead - 10.237.212.223 - 
+dead - 10.237.212.225 - 
+dead - 10.237.212.226 - 
+dead - 10.237.212.227 - 
+dead - 10.237.212.228 - 
+dead - 10.237.212.229 - 
+dead - 10.237.212.230 - 
+dead - 10.237.212.231 - 
+dead - 10.237.212.232 - 
+dead - 10.237.212.233 - 
+dead - 10.237.212.235 - 
+dead - 10.237.212.236 - 
+dead - 10.237.212.237 - 
+dead - 10.237.212.241 - 
+dead - 10.237.212.242 - 
+dead - 10.237.212.243 - 
+dead - 10.237.212.244 - 
+dead - 10.237.212.245 - 
+dead - 10.237.212.247 - 
+dead - 10.237.212.248 - 
+dead - 10.237.212.252 - 
+unknown - 10.237.212.2 - 22|67|
+unknown - 10.237.212.3 - 22|67|
+unknown - 10.237.212.152 - 22|23|80|
+unknown - 10.237.212.246 - 22|23|80|
+dead - 10.237.213.4 - 
+dead - 10.237.213.5 - 
+dead - 10.237.213.7 - 
+dead - 10.237.213.8 - 
+dead - 10.237.213.9 - 
+dead - 10.237.213.10 - 
+dead - 10.237.213.11 - 
+dead - 10.237.213.12 - 
+dead - 10.237.213.13 - 
+dead - 10.237.213.14 - 
+dead - 10.237.213.19 - 
+dead - 10.237.213.20 - 
+dead - 10.237.213.21 - 
+dead - 10.237.213.23 - 
+dead - 10.237.213.24 - 
+dead - 10.237.213.25 - 
+dead - 10.237.213.26 - 
+dead - 10.237.213.27 - 
+dead - 10.237.213.28 - 
+dead - 10.237.213.30 - 
+dead - 10.237.213.31 - 
+dead - 10.237.213.34 - 
+dead - 10.237.213.35 - 
+dead - 10.237.213.37 - 
+dead - 10.237.213.38 - 
+dead - 10.237.213.40 - 
+dead - 10.237.213.45 - 
+dead - 10.237.213.46 - 
+dead - 10.237.213.47 - 
+dead - 10.237.213.48 - 
+dead - 10.237.213.49 - 
+dead - 10.237.213.50 - 
+dead - 10.237.213.51 - 
+dead - 10.237.213.53 - 
+dead - 10.237.213.54 - 
+dead - 10.237.213.56 - 
+dead - 10.237.213.57 - 
+dead - 10.237.213.58 - 
+dead - 10.237.213.59 - 
+dead - 10.237.213.62 - 
+dead - 10.237.213.63 - 
+dead - 10.237.213.64 - 
+dead - 10.237.213.65 - 
+dead - 10.237.213.66 - 
+dead - 10.237.213.67 - 
+dead - 10.237.213.68 - 
+dead - 10.237.213.69 - 
+dead - 10.237.213.70 - 
+dead - 10.237.213.71 - 
+dead - 10.237.213.73 - 
+dead - 10.237.213.74 - 
+dead - 10.237.213.76 - 
+dead - 10.237.213.77 - 
+dead - 10.237.213.78 - 
+dead - 10.237.213.79 - 
+dead - 10.237.213.80 - 
+dead - 10.237.213.81 - 
+dead - 10.237.213.82 - 
+dead - 10.237.213.83 - 
+dead - 10.237.213.84 - 
+dead - 10.237.213.85 - 
+dead - 10.237.213.86 - 
+dead - 10.237.213.87 - 
+dead - 10.237.213.88 - 
+dead - 10.237.213.89 - 
+dead - 10.237.213.90 - 
+dead - 10.237.213.91 - 
+dead - 10.237.213.93 - 
+dead - 10.237.213.94 - 
+dead - 10.237.213.95 - 
+dead - 10.237.213.96 - 
+dead - 10.237.213.97 - 
+dead - 10.237.213.98 - 
+dead - 10.237.213.99 - 
+dead - 10.237.213.102 - 
+dead - 10.237.213.103 - 
+dead - 10.237.213.105 - 
+dead - 10.237.213.106 - 
+dead - 10.237.213.107 - 
+dead - 10.237.213.108 - 
+dead - 10.237.213.109 - 
+dead - 10.237.213.110 - 
+dead - 10.237.213.111 - 
+dead - 10.237.213.112 - 
+dead - 10.237.213.113 - 
+dead - 10.237.213.114 - 
+dead - 10.237.213.117 - 
+dead - 10.237.213.118 - 
+dead - 10.237.213.119 - 
+dead - 10.237.213.120 - 
+dead - 10.237.213.121 - 
+dead - 10.237.213.122 - 
+dead - 10.237.213.123 - 
+dead - 10.237.213.125 - 
+dead - 10.237.213.128 - 
+dead - 10.237.213.129 - 
+dead - 10.237.213.130 - 
+dead - 10.237.213.131 - 
+dead - 10.237.213.133 - 
+dead - 10.237.213.134 - 
+dead - 10.237.213.135 - 
+dead - 10.237.213.136 - 
+dead - 10.237.213.137 - 
+dead - 10.237.213.138 - 
+dead - 10.237.213.139 - 
+dead - 10.237.213.142 - 
+dead - 10.237.213.143 - 
+dead - 10.237.213.144 - 
+dead - 10.237.213.145 - 
+dead - 10.237.213.146 - 
+dead - 10.237.213.147 - 
+dead - 10.237.213.149 - 
+dead - 10.237.213.151 - 
+dead - 10.237.213.152 - 
+dead - 10.237.213.153 - 
+dead - 10.237.213.155 - 
+dead - 10.237.213.156 - 
+dead - 10.237.213.157 - 
+dead - 10.237.213.158 - 
+dead - 10.237.213.159 - 
+dead - 10.237.213.161 - 
+dead - 10.237.213.162 - 
+dead - 10.237.213.163 - 
+dead - 10.237.213.164 - 
+dead - 10.237.213.165 - 
+dead - 10.237.213.167 - 
+dead - 10.237.213.168 - 
+dead - 10.237.213.169 - 
+dead - 10.237.213.170 - 
+dead - 10.237.213.171 - 
+dead - 10.237.213.172 - 
+dead - 10.237.213.173 - 
+dead - 10.237.213.174 - 
+dead - 10.237.213.176 - 
+dead - 10.237.213.177 - 
+dead - 10.237.213.178 - 
+dead - 10.237.213.179 - 
+dead - 10.237.213.180 - 
+dead - 10.237.213.181 - 
+dead - 10.237.213.182 - 
+dead - 10.237.213.183 - 
+dead - 10.237.213.184 - 
+dead - 10.237.213.185 - 
+dead - 10.237.213.186 - 
+dead - 10.237.213.187 - 
+dead - 10.237.213.189 - 
+dead - 10.237.213.191 - 
+dead - 10.237.213.192 - 
+dead - 10.237.213.194 - 
+dead - 10.237.213.196 - 
+dead - 10.237.213.197 - 
+dead - 10.237.213.198 - 
+dead - 10.237.213.199 - 
+dead - 10.237.213.200 - 
+dead - 10.237.213.201 - 
+dead - 10.237.213.202 - 
+dead - 10.237.213.203 - 
+dead - 10.237.213.204 - 
+dead - 10.237.213.205 - 
+dead - 10.237.213.206 - 
+dead - 10.237.213.208 - 
+dead - 10.237.213.209 - 
+dead - 10.237.213.210 - 
+dead - 10.237.213.211 - 
+dead - 10.237.213.212 - 
+dead - 10.237.213.213 - 
+dead - 10.237.213.214 - 
+dead - 10.237.213.215 - 
+dead - 10.237.213.216 - 
+dead - 10.237.213.218 - 
+dead - 10.237.213.219 - 
+dead - 10.237.213.220 - 
+dead - 10.237.213.221 - 
+dead - 10.237.213.222 - 
+dead - 10.237.213.223 - 
+dead - 10.237.213.225 - 
+dead - 10.237.213.227 - 
+dead - 10.237.213.236 - 
+dead - 10.237.213.237 - 
+dead - 10.237.213.238 - 
+dead - 10.237.213.239 - 
+dead - 10.237.213.242 - 
+dead - 10.237.213.244 - 
+dead - 10.237.213.246 - 
+dead - 10.237.213.250 - 
+dead - 10.237.213.252 - 
+dead - 10.237.213.254 - 
+unknown - 10.237.212.1 - 22|67|
+unknown - 10.237.212.2 - 22|67|
+unknown - 10.237.212.3 - 22|67|
+unknown - 10.237.212.7 - 23|3389|
+unknown - 10.237.212.13 - 21|22|139|
+windows - 10.237.212.15 - &#36;abc.123&#36; - smb - Windows 7 Enterprise 7601 Service Pack 1 - Administrator - 139|3389|
+unknown - 10.237.212.18 - 22|
+linux - 10.237.212.24 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+unknown - 10.237.212.29 - 22|23|80|
+unknown - 10.237.212.33 - 22|
+linux - 10.237.212.36 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.37 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.39 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.46 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.49 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+unknown - 10.237.212.51 - 22|25|
+unknown - 10.237.212.52 - 22|23|
+linux - 10.237.212.56 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+unknown - 10.237.212.59 - 22|23|80|
+linux - 10.237.212.60 - tester - ssh - Ubuntu 10.10 (maverick) - root - 22|
+linux - 10.237.212.65 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+unknown - 10.237.212.70 - 22|23|80|
+unknown - 10.237.212.73 - 22|23|80|
+linux - 10.237.212.74 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.75 - tester - ssh - Ubuntu 10.10 (maverick) - root - 22|
+unknown - 10.237.212.77 - 21|23|3389|
+unknown - 10.237.212.78 - 22|23|80|
+linux - 10.237.212.80 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.81 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|67|
+unknown - 10.237.212.83 - 22|
+unknown - 10.237.212.86 - 23|67|
+windows - 10.237.212.88 - &#36;abc.123&#36; - smb - Windows Server 2008 R2 Enterprise 7601 Service Pack 1 - inteladmin - 139|3389|
+unknown - 10.237.212.89 - 22|23|80|
+linux - 10.237.212.94 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.96 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.212.109 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.111 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.212.114 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.116 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.117 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+unknown - 10.237.212.121 - 139|3389|67|
+unknown - 10.237.212.125 - 22|
+unknown - 10.237.212.127 - 22|
+linux - 10.237.212.128 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.130 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.131 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+unknown - 10.237.212.132 - 22|67|
+linux - 10.237.212.133 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+linux - 10.237.212.134 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.135 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+unknown - 10.237.212.137 - 22|25|
+linux - 10.237.212.138 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+unknown - 10.237.212.139 - 22|23|
+unknown - 10.237.212.142 - 22|23|80|
+linux - 10.237.212.143 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.145 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+unknown - 10.237.212.146 - 22|
+unknown - 10.237.212.152 - 22|23|80|
+linux - 10.237.212.155 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+unknown - 10.237.212.161 - 23|80|139|3389|
+linux - 10.237.212.168 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.170 - tester - ssh - CentOS release 5.5 (Final) - root - 22|
+linux - 10.237.212.173 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.174 - tester - ssh - Fedora release 13 (Goddard) - root - 22|
+linux - 10.237.212.175 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.237.212.181 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+unknown - 10.237.212.188 - 22|
+linux - 10.237.212.190 - basisadmin - ssh - CentOS release 5.2 (Final) - root - 22|
+unknown - 10.237.212.191 - 22|
+unknown - 10.237.212.196 - 139|3389|67|
+unknown - 10.237.212.198 - 22|23|80|
+unknown - 10.237.212.199 - 22|
+unknown - 10.237.212.204 - 22|
+linux - 10.237.212.215 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.212.217 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.212.218 - basisadmin - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.212.221 - tester - ssh - Fedora release 13 (Goddard) - root - 22|
+linux - 10.237.212.224 - tester - ssh - Fedora release 11 (Leonidas) - root - 21|22|
+unknown - 10.237.212.234 - 22|23|
+linux - 10.237.212.238 - tester - ssh - CentOS release 5.2 (Final) - root - 22|
+linux - 10.237.212.239 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.212.240 - basisadmin - ssh -  - root - 22|23|
+unknown - 10.237.212.246 - 22|23|80|
+linux - 10.237.212.249 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|67|
+unknown - 10.237.212.250 - 22|23|80|
+linux - 10.237.212.251 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|23|
+unknown - 10.237.212.253 - 22|
+linux - 10.237.212.254 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+unknown - 10.237.213.1 - 22|67|
+unknown - 10.237.213.2 - 22|67|
+unknown - 10.237.213.3 - 22|67|
+linux - 10.237.213.6 - Contact IT - ssh - Red Hat Enterprise Linux Server release 5.5 (Tikanga) - root - 22|80|139|3306|67|
+linux - 10.237.213.15 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.16 - basisadmin - ssh - Red Hat Enterprise Linux Server release 5 (Tikanga) - root - 22|80|
+unknown - 10.237.213.17 - 80|
+unknown - 10.237.213.18 - 22|
+linux - 10.237.213.22 - basisadmin - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.29 - basisbuild - ssh - Red Hat Enterprise Linux Client release 5 (Tikanga) - root - 22|
+linux - 10.237.213.32 - basisadmin - ssh - CentOS release 5.2 (Final) - root - 22|
+linux - 10.237.213.33 - Contact IT - ssh -  - root - 22|80|
+unknown - 10.237.213.36 - 139|3389|
+linux - 10.237.213.39 - Contact IT - ssh -  - root - 22|80|
+unknown - 10.237.213.41 - 80|
+linux - 10.237.213.42 - Contact IT - ssh -  - root - 22|80|
+unknown - 10.237.213.43 - 80|
+unknown - 10.237.213.44 - 21|22|23|
+unknown - 10.237.213.52 - 139|3389|
+windows - 10.237.213.55 - &#36;abc.123&#36; - smb - Windows 5.1 - inteladmin - 139|3389|
+linux - 10.237.213.60 - basisadmin - ssh - Fedora release 11 (Leonidas) - root - 22|
+unknown - 10.237.213.61 - 
+linux - 10.237.213.72 - Contact IT - ssh -  - root - 22|80|
+linux - 10.237.213.75 - Contact IT - ssh -  - root - 22|80|
+linux - 10.237.213.92 - basisadmin - ssh - Red Hat Enterprise Linux Server release 5.4 (Tikanga) - root - 22|80|
+linux - 10.237.213.100 - tester - ssh - Ubuntu 11.04 (natty) - root - 22|53|139|8080|67|
+windows - 10.237.213.101 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 139|3389|
+unknown - 10.237.213.104 - 23|80|
+windows - 10.237.213.115 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 139|3389|
+unknown - 10.237.213.116 - 22|
+unknown - 10.237.213.124 - 22|25|80|3306|
+linux - 10.237.213.126 - Contact IT - ssh -  - root - 22|80|
+linux - 10.237.213.127 - basisadmin - ssh - SUSE LINUX Enterprise Server 9 (i586) - root - 22|
+linux - 10.237.213.132 - Contact IT - ssh -  - root - 22|80|
+linux - 10.237.213.141 - basisadmin - ssh - Red Hat Enterprise Linux Server release 5 (Tikanga) - root - 22|
+linux - 10.237.213.148 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+windows - 10.237.213.150 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 1 - Administrator - 139|3389|
+windows - 10.237.213.154 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 139|3389|
+linux - 10.237.213.160 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+unknown - 10.237.213.166 - 21|22|23|80|139|
+windows - 10.237.213.175 - &#36;abc.123&#36; - smb - Windows 7 Enterprise 7600 - Administrator - 80|139|3389|
+linux - 10.237.213.188 - basisadmin - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.190 - basisadmin - ssh - Fedora release 11 (Leonidas) - root - 22|
+windows - 10.237.213.193 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 25|139|3389|
+windows - 10.237.213.195 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 139|3389|
+unknown - 10.237.213.207 - 22|80|
+unknown - 10.237.213.217 - 21|22|23|80|139|
+linux - 10.237.213.224 - Contact IT - ssh -  - root - 22|80|
+windows - 10.237.213.226 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 23|139|3389|
+linux - 10.237.213.228 - tester - ssh - Fedora release 13 (Goddard) - root - 22|
+linux - 10.237.213.229 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.230 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.213.231 - basisbuild - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.232 - basisbuild - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.237.213.233 - basisbuild - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.237.213.234 - basisbuild - ssh - Fedora release 11 (Leonidas) - root - 22|
+windows - 10.237.213.235 - &#36;Zpx032d - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 139|3389|
+linux - 10.237.213.240 - tester - ssh - Red Hat Enterprise Linux Client release 5 (Tikanga) - root - 22|
+linux - 10.237.213.241 - Contact IT - ssh -  - root - 22|80|
+windows - 10.237.213.243 - &#36;abc.123&#36; - smb - Windows Server 2003 3790 Service Pack 2 - Administrator - 139|3389|
+windows - 10.237.213.245 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 139|3389|
+unknown - 10.237.213.247 - 22|
+unknown - 10.237.213.248 - 139|3389|
+unknown - 10.237.213.249 - 22|
+unknown - 10.237.213.251 - 22|
+linux - 10.237.213.253 - Contact IT - ssh - Red Hat Enterprise Linux Server release 5.5 (Tikanga) - root - 22|80|139|3306|67|
+unknown - 10.243.18.1 - 22|67|
+unknown - 10.243.18.2 - 22|67|
+unknown - 10.243.18.3 - 22|67|
+unknown - 10.243.18.9 - 22|67|
+unknown - 10.243.18.14 - 22|67|
+linux - 10.243.18.15 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+linux - 10.243.18.17 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|
+linux - 10.243.18.24 - tester - ssh - Fedora release 15 (Lovelock) - root - 22|
+unknown - 10.243.18.26 - 139|3389|
+unknown - 10.243.18.28 - 22|80|67|
+unknown - 10.243.18.31 - 22|25|
+linux - 10.243.18.32 - basisadmin - ssh - CentOS release 5.6 (Final) - root - 22|
+unknown - 10.243.18.33 - 23|139|3389|
+unknown - 10.243.18.37 - 80|139|
+unknown - 10.243.18.38 - 139|3389|
+unknown - 10.243.18.40 - 67|
+linux - 10.243.18.81 - basisadmin - ssh - Red Hat Enterprise Linux Server release 5 (Tikanga) - root - 22|
+linux - 10.243.18.82 - tester - ssh - CentOS release 5.2 (Final) - root - 22|
+unknown - 10.243.18.86 - 22|80|3306|
+unknown - 10.243.18.95 - 22|139|3389|
+unknown - 10.243.18.96 - 139|3389|
+unknown - 10.243.18.99 - 
+unknown - 10.243.18.101 - 21|23|80|67|
+unknown - 10.243.18.120 - 22|
+unknown - 10.243.18.121 - 23|139|3389|
+unknown - 10.243.18.122 - 22|23|80|
+windows - 10.243.18.137 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 139|3389|
+unknown - 10.243.18.150 - 139|3389|
+unknown - 10.243.18.154 - 22|80|67|
+unknown - 10.243.18.159 - 
+unknown - 10.243.18.161 - 22|67|
+unknown - 10.243.18.167 - 22|67|
+unknown - 10.243.18.174 - 22|67|
+linux - 10.243.18.181 - tester - ssh - Fedora release 13 (Goddard) - root - 22|
+unknown - 10.243.18.185 - 21|139|3389|
+unknown - 10.243.18.186 - 22|23|80|
+unknown - 10.243.18.192 - 21|139|3389|
+linux - 10.243.18.195 - tester - ssh - Fedora release 14 (Laughlin) - root - 22|67|
+linux - 10.243.18.204 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|67|
+linux - 10.243.18.205 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|67|
+unknown - 10.243.18.208 - 67|
+unknown - 10.243.18.209 - 139|3389|
+linux - 10.243.18.212 - tester - ssh - Ubuntu 9.10 (karmic) - root - 22|
+windows - 10.243.18.216 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 139|3389|
+windows - 10.243.18.219 - &#36;abc.123&#36; - smb - Windows 5.1 - Administrator - 139|3389|
+linux - 10.243.18.229 - tester - ssh - Fedora release 11 (Leonidas) - root - 22|
+windows - 10.243.18.232 - &#36;abc.123&#36; - smb - Windows 5.1 - inteladmin - 139|3389|
+unknown - 10.243.18.236 - 139|
+linux - 10.243.18.245 - basisadmin - ssh - Fedora release 10 (Cambridge) - root - 22|67|
+unknown - 10.243.18.248 - 22|80|
+unknown - 10.243.18.252 - 22|67|
+unknown - 10.243.18.254 - 22|67|

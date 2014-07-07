@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^isos/?(.*) http://sislde.ir.intel.com/isos/$1 [R=301,L]
+</IfModule>

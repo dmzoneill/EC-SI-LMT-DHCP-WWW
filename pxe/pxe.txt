@@ -1,0 +1,5 @@
+james.p.chapman@intel.com|00:1B:21:00:6C:4A|10.237.212.249|/Blank/Root/Path|00:00:00:00:00:00:00:00:00:00|1.1.1.1|ss/t
+mario.nicolas@intel.com|00:15:17:BE:28:1B|10.237.212.131|/BLANK/ROOT/PATH||10.237.212.224|pxelinux.0
+james.p.chapman@intel.com|00:15:17:EA:E7:04|10.237.212.89|/BLANK/ROOT/PATH|||
+james.p.chapman@intel.com|00:15:17:EF:38:01|10.237.212.146|/BLANK/ROOT/PATH|06:01:0B:08:07:AA:AA:01:0A:ED:D9:1C:00|10.237.217.28|BStrap/X86pc/BStrap.0
+lmt@intel.com|00:0c:29:f7:20:be|10.237.213.55|/BLANK/ROOT/PATH||10.237.213.136|pxelinux.0

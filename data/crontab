@@ -1,0 +1,38 @@
+MAILTO="shn.lab.support.and.admins@intel.com"
+
+# LMT Critical
+################################################################################
+*/5 * * * * /opt/rational/clearquest/bin/cqperl /scripts/dhcp.pl > /scripts/log/LMTdhcpLog.txt 2>&1
+0 * * * * /opt/rational/clearquest/bin/cqperl /scripts/all.pl > /dev/null 2>&1
+0 */1 * * * /opt/rational/clearquest/bin/cqperl /scripts/problem.pl > /dev/null 2>&1
+
+# LMT Notifier scripts /root/scripts/notifier
+#################################################################################
+
+*/7 * * * * /opt/rational/clearquest/bin/cqperl /scripts/notifier/updateReservationNotifier.pl > /dev/null 2>&1
+55 7 * * * /opt/rational/clearquest/bin/cqperl /scripts/notifier/morningReservationNotifier.pl 
+5 21 * * * /opt/rational/clearquest/bin/cqperl /scripts/notifier/nightReservationNotifier.pl 
+4 4 * * * /opt/rational/clearquest/bin/cqperl /scripts/notifier/reportermain.pl > /dev/null 2>&1
+4 8 * * * /opt/rational/clearquest/bin/cqperl /scripts/notifier/syncReservations.pl > /dev/null 2>&1
+
+# Website /var/www/html
+#################################################################################
+
+0 0 * * * /scripts/main 0 > /dev/null 2>&1
+0 1 * * * /scripts/main 1 > /dev/null 2>&1
+0 2 * * * /scripts/main 2 > /dev/null 2>&1
+0 3 * * * /scripts/main 3 > /dev/null 2>&1
+0 4 * * * /scripts/main 4 > /dev/null 2>&1
+0 5 * * * /scripts/main 5 > /dev/null 2>&1
+0 6 * * * /scripts/main 6 > /dev/null 2>&1
+
+15 * * * * /usr/bin/php /var/www/html/ping-stats.php > /dev/null 2>&1
+45 * * * * /usr/bin/php /var/www/html/dhcpd-stats.php > /dev/null 2>&1
+*/30 * * * * /opt/rational/clearquest/bin/cqperl /scripts/freeips.pl
+0 */2 * * * /usr/bin/php /var/www/html/dhcpd-unused.php dhcplogscan > /dev/null 2>&1
+*/20 * * * * /usr/bin/php /var/www/html/whitelistvalidator.php > /dev/null 2>&1
+
+# Keep time in sync
+################################################################################
+0 4 * * * /usr/sbin/ntpdate sivutil001.ir.intel.com > /dev/null 2>&1
+

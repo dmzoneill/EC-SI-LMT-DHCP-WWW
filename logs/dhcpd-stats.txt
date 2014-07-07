@@ -1,0 +1,1821 @@
+{
+	"time" : "Monday 7th of July 2014 07:45 PM",
+	"logs" : [ 
+		{ 
+			"DHCPDISCOVER" : 14159, 
+			"DHCPOFFER" : 13857, 
+			"DHCPREQUEST" : 7120, 
+			"DHCPACK" : 8667, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 0, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 601, 
+					"DHCPDISCOVER" : 603, 
+					"DHCPREQUEST" : 183, 
+					"DHCPACK" : 254, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 819, 
+					"DHCPDISCOVER" : 824, 
+					"DHCPREQUEST" : 400, 
+					"DHCPACK" : 507, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 787, 
+					"DHCPDISCOVER" : 792, 
+					"DHCPREQUEST" : 389, 
+					"DHCPACK" : 473, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 818, 
+					"DHCPDISCOVER" : 823, 
+					"DHCPREQUEST" : 392, 
+					"DHCPACK" : 469, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 801, 
+					"DHCPDISCOVER" : 806, 
+					"DHCPREQUEST" : 388, 
+					"DHCPACK" : 461, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 796, 
+					"DHCPDISCOVER" : 801, 
+					"DHCPREQUEST" : 371, 
+					"DHCPACK" : 489, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 790, 
+					"DHCPDISCOVER" : 801, 
+					"DHCPREQUEST" : 408, 
+					"DHCPACK" : 485, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 805, 
+					"DHCPDISCOVER" : 810, 
+					"DHCPREQUEST" : 347, 
+					"DHCPACK" : 444, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 816, 
+					"DHCPDISCOVER" : 821, 
+					"DHCPREQUEST" : 409, 
+					"DHCPACK" : 494, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 813, 
+					"DHCPDISCOVER" : 818, 
+					"DHCPREQUEST" : 372, 
+					"DHCPACK" : 484, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 775, 
+					"DHCPDISCOVER" : 782, 
+					"DHCPREQUEST" : 395, 
+					"DHCPACK" : 493, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 888, 
+					"DHCPDISCOVER" : 931, 
+					"DHCPREQUEST" : 489, 
+					"DHCPACK" : 591, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 910, 
+					"DHCPDISCOVER" : 963, 
+					"DHCPREQUEST" : 505, 
+					"DHCPACK" : 598, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 919, 
+					"DHCPDISCOVER" : 948, 
+					"DHCPREQUEST" : 529, 
+					"DHCPACK" : 634, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 947, 
+					"DHCPDISCOVER" : 982, 
+					"DHCPREQUEST" : 560, 
+					"DHCPACK" : 647, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 905, 
+					"DHCPDISCOVER" : 958, 
+					"DHCPREQUEST" : 507, 
+					"DHCPACK" : 580, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 667, 
+					"DHCPDISCOVER" : 696, 
+					"DHCPREQUEST" : 476, 
+					"DHCPACK" : 564, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 19138, 
+			"DHCPOFFER" : 19015, 
+			"DHCPREQUEST" : 9344, 
+			"DHCPACK" : 11540, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 3, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 793, 
+					"DHCPDISCOVER" : 799, 
+					"DHCPREQUEST" : 426, 
+					"DHCPACK" : 542, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 819, 
+					"DHCPDISCOVER" : 824, 
+					"DHCPREQUEST" : 408, 
+					"DHCPACK" : 488, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 792, 
+					"DHCPDISCOVER" : 798, 
+					"DHCPREQUEST" : 409, 
+					"DHCPACK" : 493, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 230, 
+					"DHCPDISCOVER" : 233, 
+					"DHCPREQUEST" : 256, 
+					"DHCPACK" : 285, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 19193, 
+			"DHCPOFFER" : 19066, 
+			"DHCPREQUEST" : 9286, 
+			"DHCPACK" : 11548, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 0, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 814, 
+					"DHCPDISCOVER" : 819, 
+					"DHCPREQUEST" : 420, 
+					"DHCPACK" : 530, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 781, 
+					"DHCPDISCOVER" : 787, 
+					"DHCPREQUEST" : 392, 
+					"DHCPACK" : 489, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 822, 
+					"DHCPDISCOVER" : 827, 
+					"DHCPREQUEST" : 398, 
+					"DHCPACK" : 490, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 343, 
+					"DHCPDISCOVER" : 347, 
+					"DHCPREQUEST" : 296, 
+					"DHCPACK" : 334, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 20505, 
+			"DHCPOFFER" : 20386, 
+			"DHCPREQUEST" : 10501, 
+			"DHCPACK" : 12749, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 3, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 794, 
+					"DHCPDISCOVER" : 799, 
+					"DHCPREQUEST" : 436, 
+					"DHCPACK" : 537, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 834, 
+					"DHCPDISCOVER" : 839, 
+					"DHCPREQUEST" : 417, 
+					"DHCPACK" : 502, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 831, 
+					"DHCPDISCOVER" : 836, 
+					"DHCPREQUEST" : 388, 
+					"DHCPACK" : 480, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 136, 
+					"DHCPDISCOVER" : 137, 
+					"DHCPREQUEST" : 164, 
+					"DHCPACK" : 180, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 22142, 
+			"DHCPOFFER" : 20460, 
+			"DHCPREQUEST" : 10126, 
+			"DHCPACK" : 12311, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 0, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 794, 
+					"DHCPDISCOVER" : 799, 
+					"DHCPREQUEST" : 412, 
+					"DHCPACK" : 507, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 841, 
+					"DHCPDISCOVER" : 846, 
+					"DHCPREQUEST" : 443, 
+					"DHCPACK" : 528, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 813, 
+					"DHCPDISCOVER" : 818, 
+					"DHCPREQUEST" : 390, 
+					"DHCPACK" : 490, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 212, 
+					"DHCPDISCOVER" : 215, 
+					"DHCPREQUEST" : 243, 
+					"DHCPACK" : 270, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 26399, 
+			"DHCPOFFER" : 22109, 
+			"DHCPREQUEST" : 10709, 
+			"DHCPACK" : 12965, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 2, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 1011, 
+					"DHCPDISCOVER" : 1170, 
+					"DHCPREQUEST" : 536, 
+					"DHCPACK" : 652, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 1026, 
+					"DHCPDISCOVER" : 1196, 
+					"DHCPREQUEST" : 550, 
+					"DHCPACK" : 636, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 1026, 
+					"DHCPDISCOVER" : 1169, 
+					"DHCPREQUEST" : 563, 
+					"DHCPACK" : 661, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 740, 
+					"DHCPDISCOVER" : 861, 
+					"DHCPREQUEST" : 471, 
+					"DHCPACK" : 533, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 28760, 
+			"DHCPOFFER" : 22037, 
+			"DHCPREQUEST" : 9729, 
+			"DHCPACK" : 12097, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 2, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 968, 
+					"DHCPDISCOVER" : 1145, 
+					"DHCPREQUEST" : 402, 
+					"DHCPACK" : 498, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 944, 
+					"DHCPDISCOVER" : 1114, 
+					"DHCPREQUEST" : 431, 
+					"DHCPACK" : 522, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 967, 
+					"DHCPDISCOVER" : 1158, 
+					"DHCPREQUEST" : 440, 
+					"DHCPACK" : 527, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 696, 
+					"DHCPDISCOVER" : 824, 
+					"DHCPREQUEST" : 381, 
+					"DHCPACK" : 452, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		}, 
+		{ 
+			"DHCPDISCOVER" : 31000, 
+			"DHCPOFFER" : 22221, 
+			"DHCPREQUEST" : 15202, 
+			"DHCPACK" : 17522, 
+			"BOOTREQUEST" : 0, 
+			"BOOTREPLY" : 0, 
+			"SERVICE RESTARTS" : 1, 
+			"HOURS" : [ 
+				{ 
+					"DHCPOFFER" : 871, 
+					"DHCPDISCOVER" : 1379, 
+					"DHCPREQUEST" : 741, 
+					"DHCPACK" : 877, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 879, 
+					"DHCPDISCOVER" : 1387, 
+					"DHCPREQUEST" : 741, 
+					"DHCPACK" : 835, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 908, 
+					"DHCPDISCOVER" : 1452, 
+					"DHCPREQUEST" : 719, 
+					"DHCPACK" : 857, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 224, 
+					"DHCPDISCOVER" : 386, 
+					"DHCPREQUEST" : 203, 
+					"DHCPACK" : 223, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				}, 
+				{ 
+					"DHCPOFFER" : 0, 
+					"DHCPDISCOVER" : 0, 
+					"DHCPREQUEST" : 0, 
+					"DHCPACK" : 0, 
+					"RESTARTS" : 0, 
+					"BOOTREQUEST" : 0, 
+					"BOOTREPLY" : 0 
+				} 
+			] 
+		} 
+	] 
+}
