@@ -39,11 +39,17 @@ class Leases
     {
      /* Will return the lease array for the lease of the index that the
         iterator is currently on.  */
-        if ($this->leaseIterator == -1) {
+        if ($this->leaseIterator === -1) {
             $this->leaseIterator++;
         }
 
-        return $this->leases[$this->leaseIterator];
+        $leases = $this->leases;
+        $index = $this->leaseIterator;
+        if (!is_array($leases) || !is_int($index)) {
+            return null;
+        }
+
+        return isset($leases[$index]) ? $leases[$index] : null;
     }
 
 
@@ -82,11 +88,24 @@ class Leases
         Post: Returns an associative array containing the properties of
           the next lease */
 
-        if ($this->leaseIterator < count($this->leases)) {
-            return isset($this->leases[++$this->leaseIterator]) ? $this->leases[++$this->leaseIterator] : "";
-        } else {
+        $leases = $this->leases;
+        if (!is_array($leases)) {
             return false;
         }
+
+        $index = is_int($this->leaseIterator) ? $this->leaseIterator : 0;
+        if ($index < count($leases)) {
+            $this->leaseIterator = $index + 1;
+            if (!isset($leases[$this->leaseIterator])) {
+                return "";
+            }
+
+            $this->leaseIterator = $this->leaseIterator + 1;
+
+            return isset($leases[$this->leaseIterator]) ? $leases[$this->leaseIterator] : "";
+        }
+
+        return false;
     }
 
 

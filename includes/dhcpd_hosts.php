@@ -54,12 +54,13 @@ function printLeasePingHeader()
  */
 function printPingHostScript($lastId)
 {
+    $idText = $lastId === null ? "" : (string) $lastId;
     echo "\n\n<script type='text/javascript' >\n\n"
         . "\t$(document).ready( function()\n"
         . "\t{\t\n"
         . "\t\tif( $( '#m1' ).length > 0 )\n"
         . "\t\t{\n"
-        . "\t\t\tpinghost( 1 , " . $lastId . " );\t\t\t\n"
+        . "\t\t\tpinghost( 1 , " . $idText . " );\t\t\t\n"
         . "\t\t}\n"
         . "\t});\n\n"
         . "</script>\n\n";

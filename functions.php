@@ -61,7 +61,7 @@ if (!function_exists('validIP')) {
         }
 
         $command = "/usr/bin/nmap -PS21,22,23,25,67,80,113,3389 -sP -PE -PP -PM "
-            . $host . " --host-timeout " . $timeout;
+            . (string) $host . " --host-timeout " . (string) $timeout;
         $pingdata = commandStdout($command);
 
         if (is_string($pingdata) && stristr($pingdata, "1 host up") !== false) {
