@@ -5,6 +5,10 @@
  * Column lists and colours match the previous per-table copies.
  */
 
+/**
+ * @param string $name
+ * @return array<int, mixed>
+ */
 function labTableSpec($name)
 {
     $tables = array(
@@ -77,6 +81,19 @@ function labTableSpec($name)
     return $tables[$name];
 }
 
+/**
+ * @param int $labIndex
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @param string $entryType
+ * @param int $locationIndex
+ * @param string $color
+ * @param bool $brokenStyle
+ * @param bool $isError
+ * @param array<int, int|string> $columns
+ * @return string
+ */
 function renderLabTable(
     $labIndex,
     &$syncdata,
@@ -95,7 +112,7 @@ function renderLabTable(
     $error = null;
 
     foreach ($contents as $line) {
-        if (stristr($line, "|")) {
+        if (stristr($line, "|") !== false) {
             $data = explode("|", $line);
 
             if ($data[1] == $entryType && $location == $data[$locationIndex]) {
@@ -147,6 +164,14 @@ function renderLabTable(
     return $table;
 }
 
+/**
+ * @param string $name
+ * @param int $labIndex
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function labTable($name, $labIndex, &$syncdata, &$contents, $location)
 {
     $spec = labTableSpec($name);
@@ -165,41 +190,97 @@ function labTable($name, $labIndex, &$syncdata, &$contents, $location)
     );
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getassetReservationTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("assetReservation", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getcrbReservationTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("crbReservation", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getassetReservationErrorTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("assetReservationError", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getcrbReservationErrorTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("crbReservationError", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getAssetTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("asset", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getCrbTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("crb", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getAssetErrorTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("assetError", $lab_index, $syncdata, $contents, $location);
 }
 
+/**
+ * @param int $lab_index
+ * @param array<int, array<int, mixed>> $syncdata
+ * @param array<int, string> $contents
+ * @param string $location
+ * @return string
+ */
 function getCrbErrorTable($lab_index, &$syncdata, &$contents, $location)
 {
     return labTable("crbError", $lab_index, $syncdata, $contents, $location);

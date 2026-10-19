@@ -5,27 +5,41 @@
  * static and dynamic lease pages.
  */
 
+/**
+ * @param array<int, string> $lines
+ * @return list<array{mac: string, ip: string, nameLine: string}>
+ */
 function dhcpdFixedHosts($lines)
 {
     $hosts = array();
     $total = count($lines);
 
     for ($t = 2; $t < $total - 3; $t++) {
-        if (
-            stristr($lines[$t], "hardware ethernet")
-            && stristr($lines[$t + 1], "fixed-address")
-        ) {
-            $hosts[] = array(
-                "mac" => substr(trim(preg_replace('/hardware ethernet/', "", $lines[$t])), 0, -1),
-                "ip" => substr(trim(preg_replace('/fixed-address/', "", $lines[$t + 1])), 0, -1),
-                "nameLine" => $lines[$t - 2],
-            );
+        $hardware = stristr($lines[$t], "hardware ethernet");
+        $address = stristr($lines[$t + 1], "fixed-address");
+        if ($hardware === false || $address === false) {
+            continue;
         }
+
+        $macSource = preg_replace('/hardware ethernet/', "", $lines[$t]);
+        $ipSource = preg_replace('/fixed-address/', "", $lines[$t + 1]);
+        if (!is_string($macSource) || !is_string($ipSource)) {
+            continue;
+        }
+
+        $hosts[] = array(
+            "mac" => substr(trim($macSource), 0, -1),
+            "ip" => substr(trim($ipSource), 0, -1),
+            "nameLine" => $lines[$t - 2],
+        );
     }
 
     return $hosts;
 }
 
+/**
+ * @return void
+ */
 function printLeasePingHeader()
 {
     print "<table>";
@@ -34,6 +48,10 @@ function printLeasePingHeader()
     print "<tr><td colspan='4'></td></tr>";
 }
 
+/**
+ * @param int|string|null $lastId
+ * @return void
+ */
 function printPingHostScript($lastId)
 {
     echo "\n\n<script type='text/javascript' >\n\n"

@@ -32,16 +32,20 @@ if (isset($_GET['opt'])) {
     if ($_GET['opt'] == "lmtlog") {
         $filename = "/scripts/log/LMTdhcpLog.txt";
         $handle = fopen($filename, "rb");
-        $contents = fread($handle, filesize($filename));
-        fclose($handle);
-
-
-        if (!$handle) {
+        $contents = "";
+        if ($handle === false) {
             print "Couldn't open file";
+        } else {
+            $size = filesize($filename);
+            if ($size !== false) {
+                $read = fread($handle, $size);
+                if (is_string($read)) {
+                    $contents = $read;
+                }
+            }
+            fclose($handle);
         }
 
-
-        $lab = "";
         $lab_index = -1;
 
         $syncdata = array();
@@ -213,7 +217,10 @@ $(document).ready(function() {
          text: 'LMT DHCP Sync Log statistics'
       },
       subtitle: {
-         text: 'Source: /scripts/log/LMTdhcpLog.txt - ' + '<?php echo date("F d Y H:i:s.", filemtime($filename)); ?>'
+         text: 'Source: /scripts/log/LMTdhcpLog.txt - ' + '<?php
+            $logMtime = filemtime($filename);
+            echo date("F d Y H:i:s.", is_int($logMtime) ? $logMtime : 0);
+            ?>'
       },
       xAxis: {
          categories: [

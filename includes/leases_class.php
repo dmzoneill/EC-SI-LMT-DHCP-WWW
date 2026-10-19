@@ -4,25 +4,37 @@ namespace Intel\Lmt;
 
 class Leases
 {
-        public $leases;
-        public $leaseIterator;
+    /** @var array<int, array<string, mixed>>|null */
+    public $leases;
 
+    /** @var int|null */
+    public $leaseIterator;
+
+    /**
+     * @return void
+     */
     public function __construct()
     {
-        $leaseIterator = -1; // To ensure you don't miss the 0 index
     }
 
-
+    /**
+     * @param string $filename
+     * @return void
+     */
     public function parseConfig($filename)
     {
     }
 
-        /* BEGIN LEASE METHODS */
+    /**
+     * @return void
+     */
     public function rewindLease()
     {
-        $this->__construct();
     }
 
+    /**
+     * @return mixed
+     */
     public function getLease()
     {
      /* Will return the lease array for the lease of the index that the
@@ -35,6 +47,9 @@ class Leases
     }
 
 
+    /**
+     * @return mixed
+     */
     public function nextActive()
     {
      /* Will retrieve the next value in the $leases array that contains
@@ -54,6 +69,9 @@ class Leases
         return false;
     }
 
+    /**
+     * @return mixed
+     */
     public function nextLease()
     {
      /* Will retrieve the next lease in the $leases array. Acts as
@@ -72,6 +90,10 @@ class Leases
     }
 
 
+    /**
+     * @param string $filename
+     * @return void
+     */
     public function readLease($filename)
     {
      /* Opens a lease file, splits it into individual leases,
@@ -90,6 +112,9 @@ class Leases
         $entry = array();
         while (!feof($leaseFile)) {
             $line = fgets($leaseFile, 1024);
+            if (!is_string($line)) {
+                continue;
+            }
 
             // Skips lines that don't matter
             if (preg_match("/^(\#)/", $line)) {
@@ -109,6 +134,10 @@ class Leases
         return;
     }
 
+    /**
+     * @param array<int, string> $rgLease
+     * @return array<string, mixed>
+     */
     public function parseLease($rgLease)
     {
         $lease = array();
