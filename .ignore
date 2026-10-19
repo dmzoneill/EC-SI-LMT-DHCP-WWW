@@ -1,0 +1,32 @@
+# SyntaxHighlighter 3.0.83 shCore and shTheme stylesheets (Alex Gorbatchev)
+css/styles/
+
+# jQuery UI 1.8.21 Smoothness theme (jqueryui.com)
+css/smoothness/
+
+# jQuery 1.7.2 (jquery.com)
+js/jquery-1.7.2.min.js
+
+# jQuery UI 1.8.21 (jqueryui.com)
+js/jquery-ui-1.8.21.custom.min.js
+
+# jQuery Validation Plugin 1.7 (Jörn Zaefferer)
+js/jquery.validate.min.js
+
+# Highcharts JS 2.3.2, including modules, themes, and adapters (Torstein Hønsi)
+js/highcharts.js
+js/highcharts.src.js
+js/highcharts-more.js
+js/modules/
+js/themes/
+js/adapters/
+
+# ExplorerCanvas / excanvas (Google Inc., Apache License 2.0)
+js/excanvas.compiled.js
+
+# SyntaxHighlighter 3.0.83 brush scripts and sources (Alex Gorbatchev)
+js/scripts/
+js/src/
+
+# Runtime DHCP, lease, ping, and login snapshots written by the application
+logs/
