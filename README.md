@@ -1,5 +1,9 @@
 # EC-SI-LMT-DHCP-WWW
 
+<p align="center">
+  <img src=".github/logo.png" alt="EC-SI-LMT-DHCP-WWW logo" width="128" />
+</p>
+
 PHP web interface for lab DHCP management. The shared page chrome in `intel_header.php` titles the site “Shannon Labs DHCP Server Status” and groups the navigation under LMT (Lab Management Tool). The checked-in version is in `version` (`version=0.0.8`).
 
 This repository is the web tree itself. It does not contain an installer, a package manifest, a container definition, or a documented setup procedure. Pages and scripts assume a specific document root and a set of files and services that live outside this tree.
